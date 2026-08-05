@@ -1,4 +1,4 @@
-# Cloud Code for Visual Studio Code
+$ Cloud Code for Visual Studio Code
 
 Cloud Code for VS Code brings the power and convenience of IDEs to cloud-native application development. Cloud Code integrates with Google Cloud services like Google
 Kubernetes Engine, Cloud Run, Cloud APIs and Secret Manager, and makes you feel like you are working with local code.
