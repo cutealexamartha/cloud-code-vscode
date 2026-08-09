@@ -248,7 +248,6 @@ footer {
     }
 }
 
-/* Loading animation */
 @keyframes pulse {
     0%, 100% {
         opacity: 1;

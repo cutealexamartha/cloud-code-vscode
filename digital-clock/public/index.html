@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Timezone Clock</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌍 Digital Timezone Clock</h1>
+            <p>Current time across the globe</p>
+        </header>
+
+        <div class="controls">
+            <input type="text" id="timezoneInput" placeholder="Add timezone (e.g., Asia/Bangkok)">
+            <button onclick="addTimezone()">Add Timezone</button>
+            <button onclick="resetToDefault()" class="reset-btn">Reset to Default</button>
+        </div>
+
+        <div class="clock-grid" id="clockGrid">
+            <!-- Clock cards will be inserted here -->
+        </div>
+
+        <footer>
+            <p>All times update in real-time • Hover over timezone for UTC offset</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
