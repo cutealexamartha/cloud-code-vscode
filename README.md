@@ -10,9 +10,9 @@ unified authentication experience when you develop with Google Cloud Services.
 
 ![E2E workflow](https://github.com/GoogleCloudPlatform/cloud-code-vscode/raw/master/images/cloud-code-quick-deploy.gif)
 
-# Key Features
+$ Key Features
 
-## Supporting your development workflow
+$$ Supporting your development workflow
 
 Get run-ready sample applications, out-of-the-box configuration snippets, support for key Google Cloud Services like Cloud APIs and Google Cloud Build,
 Cloud Native Buildpacks, Secrets Manager, one-click deployment, a tailored debugging experience, iterative run/debug experience and much more. Cloud Code makes
